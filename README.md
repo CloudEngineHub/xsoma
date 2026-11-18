@@ -6,7 +6,7 @@ Holosoma's own reward through motions it imagines. On four H100s it reaches Holo
 of training, 12.3× sooner than Holosoma's FastSAC on one. On a single H100 it takes 2.50 minutes, 3.8× sooner. Holosoma's
 PPO does not reach the bar within an hour.
 
-Paper: [XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://nico-bohlinger.github.io/papers/2026_xmimic_xsoma.pdf)
+Paper: [XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute](https://arxiv.org/pdf/2611.20452)
 (Nico Bohlinger, Jan Peters, 2026), which presents XSoma together with [XMimic](https://github.com/nico-bohlinger/xmimic).
 Please [cite it](#citation) if you use XSoma.
 
@@ -298,7 +298,7 @@ If you use XSoma in your research, please cite:
   title  = {XMimic and XSoma: Learning Humanoid Motion Tracking and Locomotion in Under a Minute},
   author = {Bohlinger, Nico and Peters, Jan},
   year   = {2026},
-  url    = {https://nico-bohlinger.github.io/papers/2026_xmimic_xsoma.pdf}
+  url    = {https://arxiv.org/pdf/2611.20452}
 }
 ```
 
